@@ -1,0 +1,15 @@
+{
+  "name": "sehirde-simdi",
+  "version": "1.0.0",
+  "description": "Şehrinde şimdi ve yakında neler oluyor? Tek akışta gösteren mobil öncelikli web uygulaması.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node data/seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "UNLICENSED"
+}
